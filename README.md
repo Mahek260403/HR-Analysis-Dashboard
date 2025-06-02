@@ -1,10 +1,12 @@
 # HR Analysis Dashboard 📊
 
-![HR Analysis Dashboard](./Screenshots/HR_Analytics_Dashboard.png)
-
-## 📌 Project Overview
+ ## 📌 Project Overview
 
 The **HR Analysis Dashboard** is an interactive Power BI solution designed to help organizations monitor and analyze key human resource metrics such as attrition, employee demographics, education background, and job role distributions. This dashboard supports HR teams in identifying trends and making data-driven decisions to improve employee retention and engagement.
+
+## Screenshot 
+
+![HR Analysis Dashboard](./IMG_20250601_202703.jpg)
 
 ## 🔍 Key Features
 
@@ -32,17 +34,12 @@ The dataset includes employee information such as:
 - Attrition Status
 - Years of Experience, etc.
 
-> Note: The dataset is a simulated HR dataset used for demonstration and learning purposes.
-
 ## 🚀 Insights Gained
 
 - Identified departments and age groups with the highest attrition.
 - Highlighted key demographic trends affecting employee retention.
 - Helped simulate data-driven strategies for improving HR practices.
 
-## 📷 Screenshot
-
-> See the Power BI dashboard visualization above for reference.
 
 
 
