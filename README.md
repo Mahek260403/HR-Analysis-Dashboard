@@ -6,8 +6,7 @@ The **HR Analysis Dashboard** is an interactive Power BI solution designed to he
 
 ## Screenshot 
 
-![HR Analysis Dashboard](<img width="845" height="463" alt="HR_Attrition_Analysis_dashboard" src="https://github.com/user-attachments/assets/28576546-9ab0-42ab-906b-c8f55d784a89" />
-)
+![HR Analysis Dashboard](https://github.com/Mahek260403/HR-Analysis-Dashboard/blob/main/HR_Attrition_Analysis_dashboard.png)
 
 ## 🔍 Key Features
 
